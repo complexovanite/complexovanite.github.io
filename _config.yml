@@ -1,17 +1,17 @@
 # Welcome to Jekyll!
 #
 
-# Site settings
+# Configurações do Site
 title: Vanité - Complexo de Beleza
 description: |
   Conheça nosso serviços
 
 
-owner: Vanité # or company name
-first_published: 2019 # if migrating another site, the year of your first publish
+owner: Vanité # Nome da Empresa
+first_published: 2019 # 
 email: contatovanite@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://complexovanite.github.io" # coloque a URL aqui
 social:
   twitter: https://twitter.com/complexovanite
   github: https://github.com/complextovanite

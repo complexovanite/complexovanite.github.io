@@ -8,48 +8,14 @@ description: |
 
 
 owner: Vanité # Nome da Empresa
-first_published: 2019 # 
+first_published: 2019 
 email: contatovanite@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://complexovanite.github.io" # coloque a URL aqui
 social:
   twitter: https://twitter.com/complexovanite
   github: https://github.com/complextovanite
   facebook-official: https://www.facebook.com/complexovanite
-  #email: /contact/
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
+
 
 # Build settings
 markdown: kramdown
